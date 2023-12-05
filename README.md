@@ -1,2 +1,2 @@
 # PDF-builder-mailer
-Creates PDF based on data in google sheets and mails them as attachments.
+Creates PDFs based on data in Google Sheets and mails them as attachments using Google App Script.
